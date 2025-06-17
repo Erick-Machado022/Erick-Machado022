@@ -13,5 +13,6 @@
   <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div> <br/>
 
+
 Estudante de ADS e apaixonado por tecnologia 
 
