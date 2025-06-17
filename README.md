@@ -30,7 +30,8 @@
 
 ### 🐍 Cobrinha devoradora de commits
 
-![snake gif](https://github.com/Erick-Machado022/Erick-Machado022/blob/output/dist/github-snake-dark.svg)
+![snake gif](https://github.com/Erick-Machado022/Erick-Machado022/blob/main/dist/github-snake-dark.svg)
+
 
 
 
