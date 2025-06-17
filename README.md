@@ -7,7 +7,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💡 Apaixonado por tecnologia, lógica de programação e novos desafios  
-
+### ✨ Em constante evolução
 ---
 
 <p align="center">
@@ -26,9 +26,7 @@
 
 ---
 
-### ✨ Em constante evolução
 
-### 🐍 Cobrinha devoradora de commits
 
 ![snake gif](https://github.com/Erick-Machado022/Erick-Machado022/blob/main/dist/github-snake-dark.svg)
 
