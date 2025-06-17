@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Erick-Machado022&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Machado022&layout=compact&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Erick-Machado022&show_icons=true&theme=dracula&count_private=true&v=2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Machado022&layout=compact&theme=dracula&v=2" />
 </p>
 
 ---
