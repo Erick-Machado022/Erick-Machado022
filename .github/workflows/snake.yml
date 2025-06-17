@@ -16,6 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Erick-Machado022
+          speed: 500
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
