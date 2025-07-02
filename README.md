@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Erick-Machado022&show_icons=true&theme=dracula&count_private=true&v=2&cache_seconds=3600" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Erick-Machado022&show_icons=true&theme=dark&count_private=true&v=2&cache_seconds=3600" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Machado022&layout=compact&theme=dark&v=2&cache_seconds=3600" />
 
 </p>
