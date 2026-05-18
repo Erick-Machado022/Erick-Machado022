@@ -4,10 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-machado-alves/)
 
 ---
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonado por tecnologia, lógica de programação e novos desafios  
-### ✨ Em constante evolução
+💻 Desenvolvedor em formação  
+🎓 Análise e Desenvolvimento de Sistemas
 ---
 
 
@@ -23,6 +21,7 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>  
 
 
